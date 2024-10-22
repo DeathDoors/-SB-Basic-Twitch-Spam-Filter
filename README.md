@@ -4,5 +4,6 @@
 ## Instructions
 
 - Import the string into StreamerBot
+- Right mouse click Basic Twitch Spam - Group - Enable all
 - Test trigger the set globals
 - Customize the action to your liking
