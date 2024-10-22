@@ -4,5 +4,5 @@
 ## Instructions
 
 - Import the string into StreamerBot
-- Test trigger the Set globals
-- customize the action to your liking
+- Test trigger the set globals
+- Customize the action to your liking
