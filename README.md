@@ -3,6 +3,6 @@
 
 ## Instructions
 
--Import the string into StreamerBot
--Test trigger the Set globals
--customize the action to your liking
+- Import the string into StreamerBot
+- Test trigger the Set globals
+- customize the action to your liking
