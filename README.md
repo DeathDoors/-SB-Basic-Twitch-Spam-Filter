@@ -3,7 +3,7 @@
 
 ## Instructions
 
-**Currently in testing | dont use other than testing**
+**Currently in testing | dont use unless testing**
 - Import the string into StreamerBot
 - Right mouse click Basic Twitch Spam - Group - Enable all
 - Customize the action to your liking
