@@ -1,5 +1,5 @@
 # [SB] Basic Twitch Spam Filter
-[Find the import string here](https://github.com/DeathDoors/-SB-Basic-Twitch-Spam/blob/3eace7868dccc089b27287d065805e96b7ce360e/BasicTS-StringV1)
+[Find the import string here](https://github.com/DeathDoors/-SB-Basic-Twitch-Spam-Filter/blob/dd8927eb93c140f2ed22a4fb56363ccaf4ab2c3c/Strings/V1.0.1)
 
 ## Instructions
 
